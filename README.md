@@ -55,4 +55,4 @@ YanaShop_ZeboCard/
 ```
 👨‍💻 Author
 Natnael22sds
-[GitHub: ](https://github.com/Natnael22sds)
+[GitHub profile](https://github.com/Natnael22sds)
