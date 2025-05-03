@@ -52,3 +52,7 @@ YanaShop_ZeboCard/
 ├── includes/               # Reusable components (header, footer)
 ├── pages/                  # Individual pages (home, services, gallery, contact)
 └── README.md               # Project documentation
+```
+👨‍💻 Author
+Natnael22sds
+[GitHub: ](https://github.com/Natnael22sds)
