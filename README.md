@@ -26,6 +26,10 @@ Responsive Design – Ensures usability across devices
 
 ---
 
+## 🌐 Live Demo
+
+[👉 View it live here](https://zebo.et/YanaShop_ZeboCard/web.php)
+
 📸 Screenshots
 ![image_original](https://github.com/user-attachments/assets/aedad50f-426c-4981-b4c2-0b46ef971ff4)
 ![image_original](https://github.com/user-attachments/assets/b63fb9be-3be8-494a-8e37-bca1dcba177c)
